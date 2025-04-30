@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         أداة فتح الروابط - بواسطة أحمد خالد
 // @namespace    https://www.facebook.com/Dr.Ahmed.FamilyFarm
-// @version      1.2
+// @version      1.3
 // @description  افتح روابط متعددة في تبويبات جديدة بضغطة واحدة - ⚠️ نسخة محمية
 // @match        *://*/*
 // @author       Dr Ahmed Khaled 👑
